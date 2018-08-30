@@ -1,4 +1,4 @@
-# @title[Judul](SenseHub)  
+# @title[SenseHub]  
 
 Aplikasi Web Terintegrasi Untuk Analisis Data Sensoris
 
@@ -12,7 +12,8 @@ Aplikasi Web Terintegrasi Untuk Analisis Data Sensoris
 - Kontak:
   - [muhammadaswansyahputra@gmail.com](mailto:muhammadaswansyahputra@gmail.com)
   - [+6282234653816](https://wa.me/6282234653816)
-
+  - @fa[whatsapp] asasas
+  - @fa[github](https://github.com/aswansyaputra)
 +++
 asasasasassas
 asassa
