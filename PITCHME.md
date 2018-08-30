@@ -1,15 +1,14 @@
-# Flux 
+# SenseHub  
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Aplikasi Web Terintegrasi Untuk Analisis Data Sensoris
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+## Pengantar 
+- Muhammad Aswan Syahputra
+- Penggagas [Sensolution](sensolution.id)
+- Lulusan S2 Ilmu Sensoris, Wageningen University and Research 
+- Lulusan S1 Ilmu dan Teknologi Pangan, Universitas Brawijaya
+
+---
+
